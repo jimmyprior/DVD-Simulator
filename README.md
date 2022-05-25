@@ -1,4 +1,4 @@
 # DVD Simulator
 Colliding DVDs 
 
-![Example](https://raw.githubusercontent.com/jimmyprior/dvd-simulator/main/images/example.gif)
+![Example](https://github.com/jimmyprior/DVD-Simulator/blob/main/images/example.gif?raw=true)
